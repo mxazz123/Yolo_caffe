@@ -1,0 +1,6 @@
+detect_layer.cpp,detect_layer.hpp: 自定义layer代码
+test_label.txt,train_label.txt:标签数据
+yolo-face-train-val.prototxt:模型训练网络定义
+yolo-face-deploy.prototxt:模型应用网络定义
+hdfGenerate.ipynb:标签文件（hdf5)生成
+测试代码-第一批数据.ipynb:模型应用代码
